@@ -12,5 +12,8 @@
 - TornadoFx > tornadofx-maven-project 로 프로젝트를 생성한다.
 
 [screenshot]
+
 <img width="200" alt="스크린샷 2021-01-23 오후 5 25 16" src="https://user-images.githubusercontent.com/25242202/105573390-9b80eb80-5da0-11eb-8f62-255455116567.png">
+
+
 <img width="563" alt="스크린샷 2021-01-23 오후 5 25 30" src="https://user-images.githubusercontent.com/25242202/105573421-cff4a780-5da0-11eb-8e57-6f8d39ac9255.png">
